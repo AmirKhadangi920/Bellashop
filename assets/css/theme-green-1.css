@@ -1672,7 +1672,7 @@ input[type=checkbox] {
   display: block;
   position: absolute;
   bottom: 0;
-  left: 0;
+  right: 0;
   width: 50px;
   height: 2px;
   background-color: #a3a4a5;
@@ -2810,7 +2810,7 @@ input[type=checkbox] {
 }
 .social-icons li {
   padding: 15px 10px 0 0;
-  float: left;
+  float: right;
 }
 .social-icons a {
   display: block;

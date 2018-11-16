@@ -1,0 +1,32 @@
+.rUlHeader li {
+    float: right!important;
+}
+
+.rfooter {
+    direction: rtl!important;
+}
+
+.rUlFooter li {
+    float: right!important;
+}
+
+.rUlFooter2 {
+    padding: 0px!important;
+}
+
+.rUlFooter3 {
+    padding: 0px!important;
+}
+
+rUlFooter3 li {
+    float: right!important;
+}
+
+.rMarginRightFooter {
+    margin-right: 30px; 
+}
+
+/* ERROR PAGE */
+.rErrorPage {
+    direction: rtl;
+}
