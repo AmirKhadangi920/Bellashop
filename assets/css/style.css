@@ -30,3 +30,17 @@ rUlFooter3 li {
 .rErrorPage {
     direction: rtl;
 }
+
+/* FAQ PAGE */
+.rFaqPageP {
+    text-align: right!important;
+}
+
+.rFaqPageSpans {
+    float: right!important;
+}
+
+.rAFaqPage {
+    float: right!important;
+    margin-right: 27px;
+}
