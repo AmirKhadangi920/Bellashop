@@ -6609,3 +6609,6 @@ input[type=number]::-webkit-outer-spin-button {
 .pkh-element-direction{
   direction: rtl;
 }
+.pkh-element-float{
+  float: right;
+}
