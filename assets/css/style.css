@@ -44,3 +44,19 @@ rUlFooter3 li {
     float: right!important;
     margin-right: 27px;
 }
+/* SHOPPING CART */
+.rUlShoppingCartPage {
+    direction: rtl!important;
+}
+
+.rLabelShoppingCartPage {
+    padding-right: 14px!important;
+}
+
+.rLabelShoppingCartPage input {
+    margin-right: -15px!important; 
+}
+
+.rButtomShopingCart {
+    float: left;
+}
